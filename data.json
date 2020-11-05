@@ -1,0 +1,422 @@
+[
+    { "name": "Quick Silver",
+      "id": 1,
+      "type": "Speed",
+      "healthPoints": 1100,
+      "clevernessAttack" : {
+         "attackName": "Piège Temporel",
+         "attackStats": 60 
+                        },
+      "strengthAttack": {
+          "attackName": "Vibration Atomique",
+          "attackStats": 20 
+                      },
+      "speedAttack": {
+          "attackName":  "Vitesse Extrême",
+          "attackStats": 100
+      },
+      "resistanceAttack":{
+       "attackName": "Téléportation Temporelle",
+       "attackStats": 60
+                       }
+ },
+ { "name": "Captain Marvel",
+ "id": 2,
+ "type": "Strength",
+ "healthPoints": 1000,
+ "clevernessAttack" : {
+    "attackName": "Intuition Astrale",
+    "attackStats":  80
+                   },
+ "strengthAttack": {
+     "attackName": "Frappe Météore",
+     "attackStats":  100
+                 },
+ "speedAttack": {
+     "attackName":  "Coup Lumière",
+     "attackStats": 80
+ },
+ "resistanceAttack":{
+  "attackName": "Trou Noir",
+  "attackStats": 100
+                  }
+},
+{ "name": "Superman",
+"id": 3,
+"type": "Speed",
+"healthPoints": 900,
+"clevernessAttack" : {
+   "attackName": "Laser Oculaire",
+   "attackStats":  100
+                  },
+"strengthAttack": {
+    "attackName": "Krypto Frappe",
+    "attackStats":  100
+                },
+"speedAttack": {
+    "attackName":  "Vol Supersonique",
+    "attackStats": 100
+},
+"resistanceAttack":{
+ "attackName": "Poing Dur",
+ "attackStats": 100
+                 }
+},
+{ "name": "Supergirl",
+"id": 4,
+"type": "Speed",
+"healthPoints": 900,
+"clevernessAttack" : {
+   "attackName": "Vision Laser",
+   "attackStats": 100 
+                  },
+"strengthAttack": {
+    "attackName": "Krypto Claque ",
+    "attackStats": 100 
+                },
+"speedAttack": {
+    "attackName":  "Super Vol",
+    "attackStats":100 
+},
+"resistanceAttack":{
+ "attackName": "Talon d'Acier",
+ "attackStats": 100
+                 }
+},
+{ "name": "Groot",
+"id": 5,
+"type": "Strength",
+"healthPoints": 1300,
+"clevernessAttack" : {
+   "attackName": "Sève Neurologique",
+   "attackStats": 80 
+                  },
+"strengthAttack": {
+    "attackName": "Force de la Nature",
+    "attackStats":  80
+                },
+"speedAttack": {
+    "attackName":  "Lancé de Roches",
+    "attackStats": 40
+},
+"resistanceAttack":{
+ "attackName": "Vitalitée Sylvestre",
+ "attackStats": 60
+                 }
+},
+{ "name": "Gamora",
+"id": 6,
+"type": "Strength",
+"healthPoints": 1100,
+"clevernessAttack" : {
+   "attackName": "Plan Cosmique",
+   "attackStats": 80 
+                  },
+"strengthAttack": {
+    "attackName": "Frappe Légère",
+    "attackStats": 80 
+                },
+"speedAttack": {
+    "attackName":  "Epée Voltigeuse",
+    "attackStats": 40
+},
+"resistanceAttack":{
+ "attackName": "Esquive Verte",
+ "attackStats": 80
+                 }
+},
+{ "name": "Iron Man",
+"id": 7,
+"type": "Strength",
+"healthPoints": 1000,
+"clevernessAttack" : {
+   "attackName": "Génie Robotique",
+   "attackStats": 100 
+                  },
+"strengthAttack": {
+    "attackName": "Répulseurs Energétiques",
+    "attackStats":  80
+                },
+"speedAttack": {
+    "attackName":  "Turbo Réacteur",
+    "attackStats": 60
+},
+"resistanceAttack":{
+ "attackName": "Poing de Fer",
+ "attackStats": 80
+                 }
+},
+{ "name": "Hulk",
+"id": 8,
+"type": "Resistance",
+"healthPoints": 1000,
+"clevernessAttack" : {
+   "attackName": "Tappe grossière",
+   "attackStats": 80 
+                  },
+"strengthAttack": {
+    "attackName": "Décuplement Musculaire",
+    "attackStats": 100 
+                },
+"speedAttack": {
+    "attackName":  "Bond de Géant",
+    "attackStats": 60
+},
+"resistanceAttack":{
+ "attackName": "Contre Musclé",
+ "attackStats": 100
+                 }
+},
+{ "name": "Joker",
+"id": 9,
+"type": "Cleverness",
+"healthPoints": 1350,
+"clevernessAttack" : {
+   "attackName": "Coup de Poker",
+   "attackStats":  100
+                  },
+"strengthAttack": {
+    "attackName": "Carré d'As",
+    "attackStats": 10 
+                },
+"speedAttack": {
+    "attackName":  "Pistole",
+    "attackStats": 10
+},
+"resistanceAttack":{
+ "attackName": "Bouclier de Sbires",
+ "attackStats": 60
+                 }
+},
+{ "name": "Harley Quinn",
+"id": 10,
+"type": "Cleverness",
+"healthPoints": 1250,
+"clevernessAttack" : {
+   "attackName": "Attraction Mortelle",
+   "attackStats":  80
+                  },
+"strengthAttack": {
+    "attackName": "Coup de Folie",
+    "attackStats": 10 
+                },
+"speedAttack": {
+    "attackName":  "Baiser Furtif",
+    "attackStats": 40
+},
+"resistanceAttack":{
+ "attackName": "Emprise Psychotique",
+ "attackStats": 60
+                 }
+},
+{ "name": "Mera",
+"id": 11,
+"type": "Speed",
+"healthPoints": 1000,
+"clevernessAttack" : {
+   "attackName": "Ecume Psychique",
+   "attackStats": 60 
+                  },
+"strengthAttack": {
+    "attackName": "Etreinte Aquatique",
+    "attackStats": 80 
+                },
+"speedAttack": {
+    "attackName":  "Bruine Délicate",
+    "attackStats": 80
+},
+"resistanceAttack":{
+ "attackName": "Ecailles Tranchantes",
+ "attackStats": 60
+                 }
+},
+{ "name": "Flash",
+"id": 12,
+"type": "Speed",
+"healthPoints": 1150,
+"clevernessAttack" : {
+   "attackName": "Eclair de Génie",
+   "attackStats":  60
+                  },
+"strengthAttack": {
+    "attackName": "Elan Hypersonic",
+    "attackStats": 10 
+                },
+"speedAttack": {
+    "attackName":  "Vitesse Eclair",
+    "attackStats": 100 
+},
+"resistanceAttack":{
+ "attackName": "Esquive Eclair",
+ "attackStats": 40
+                 }
+},
+{ "name": "Poison Ivy",
+"id": 13,
+"type": "Cleverness",
+"healthPoints": 1300,
+"clevernessAttack" : {
+   "attackName": "Spore Psychosommatique",
+   "attackStats":  80
+                  },
+"strengthAttack": {
+    "attackName": "Bouquet Floral",
+    "attackStats": 10 
+                },
+"speedAttack": {
+    "attackName":  "Fleur du Mal",
+    "attackStats": 20
+},
+"resistanceAttack":{
+ "attackName": "Armure Roncière",
+ "attackStats": 40
+                 }
+},
+{ "name": "Medusa",
+"id": 14,
+"type": "Cleverness",
+"healthPoints": 1350,
+"clevernessAttack" : {
+   "attackName": "Double Brosse",
+   "attackStats": 80 
+                  },
+"strengthAttack": {
+    "attackName": "Etreinte Capillaire",
+    "attackStats":  40
+                },
+"speedAttack": {
+    "attackName":  "Constriction Velue",
+    "attackStats": 40
+},
+"resistanceAttack":{
+ "attackName": "Cocon Capillaire",
+ "attackStats": 60
+                 }
+},
+{ "name": "Spiderman",
+"id": 15,
+"type": "Cleverness",
+"healthPoints": 1200,
+"clevernessAttack" : {
+   "attackName": "Arachno Toile",
+   "attackStats": 100 
+                  },
+"strengthAttack": {
+    "attackName": "Morsure Arachnéenne",
+    "attackStats":  60
+                },
+"speedAttack": {
+    "attackName":  "Toile Lianne",
+    "attackStats": 60
+},
+"resistanceAttack":{
+ "attackName": "Fil de Fer",
+ "attackStats": 80
+                 }
+},
+{ "name": "Green Lantern",
+"id": 16,
+"type": "Strength",
+"healthPoints": 1100,
+"clevernessAttack" : {
+   "attackName": "Construction Psychique",
+   "attackStats": 60
+                  },
+"strengthAttack": {
+    "attackName": "Energie Créatrice",
+    "attackStats": 100 
+                },
+"speedAttack": {
+    "attackName":  "Luminescence",
+    "attackStats": 80
+},
+"resistanceAttack":{
+ "attackName": "Volonté Protectrice",
+ "attackStats": 80 
+                 }
+},
+{ "name": "Invisible Woman",
+"id": 17,
+"type": "Resistance",
+"healthPoints": 1300,
+"clevernessAttack" : {
+   "attackName": "Disparition",
+   "attackStats": 80 
+                  },
+"strengthAttack": {
+    "attackName": "Contrôle Mental",
+    "attackStats": 10 
+                },
+"speedAttack": {
+    "attackName":  "Camouflage",
+    "attackStats": 20
+},
+"resistanceAttack":{
+ "attackName": "Champ de Force",
+ "attackStats": 80
+                 }
+},
+{ "name": "Wonder Woman",
+"id": 18,
+"type": "Resistance",
+"healthPoints": 900,
+"clevernessAttack" : {
+   "attackName": "Ruse de l'Amazone",
+   "attackStats":  80
+                  },
+"strengthAttack": {
+    "attackName": "Wonder Punch",
+    "attackStats":  100
+                },
+"speedAttack": {
+    "attackName":  "Lassot Constricteur",
+    "attackStats": 80
+},
+"resistanceAttack":{
+ "attackName": "Bouclier de l'Amazone",
+ "attackStats": 100
+                 }
+},
+{ "name": "Wolwerine",
+"id": 19,
+"type": "Resistance",
+"healthPoints": 1250,
+"clevernessAttack" : {
+   "attackName": "Instinct de Survie",
+   "attackStats":  60
+                  },
+"strengthAttack": {
+    "attackName": "Coup de Griffe",
+    "attackStats": 40 
+                },
+"speedAttack": {
+    "attackName":  "Combo Tranchant",
+    "attackStats": 40 
+},
+"resistanceAttack":{
+ "attackName": "Régénerescence",
+ "attackStats": 100
+                 }
+},
+{ "name": "Thanos",
+"id": 20,
+"type": "Resistance",
+"healthPoints": 950,
+"clevernessAttack" : {
+   "attackName": "Plan Machiavélique",
+   "attackStats": 100 
+                  },
+"strengthAttack": {
+    "attackName": "Frappe Titanesque",
+    "attackStats":  100
+                },
+"speedAttack": {
+    "attackName":  "Marche du Titan",
+    "attackStats": 40 
+},
+"resistanceAttack":{
+ "attackName": "Gant d'infinité",
+ "attackStats": 100
+                 }
+}
+]
