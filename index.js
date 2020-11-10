@@ -7,6 +7,7 @@ app.get("/", (req,res) => {
     res.send("Hello World")
 });
 app.get("/heroes", (req,res)=>{
+    res.header('Access-Control-Allow-Origin', '*');
  res.send(importData)
 })
 
